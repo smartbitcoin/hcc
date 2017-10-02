@@ -1,7 +1,8 @@
 [submodule "llvm"]
 	path = compiler
-	url = https://github.com/RadeonOpenCompute/llvm.git
-	branch = amd-hcc
+	#url = https://github.com/RadeonOpenCompute/llvm.git
+	url = https://github.com/smartbitcoin/llvm.git
+	branch = jhc
 [submodule "lld"]
 	path = lld
 	url = https://github.com/RadeonOpenCompute/lld.git
